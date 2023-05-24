@@ -6,11 +6,16 @@ html {
 }
 
 body {
- margin: 0;   
- font-family: 'Oswald', sans-serif;
- font-weight: 400;
+   margin: 0;   
+   font-family: 'Oswald', sans-serif;
+   font-weight: 400;
 }
 
+.contener {
+   min-width: 11000px;
+   background: #ddd;
+   margin: 0 auto;
+}
 /* 
 font-family: 'Open Sans', sans-serif;
 font-family: 'Oswald', sans-serif;
@@ -18,8 +23,7 @@ font-family: 'Oswald', sans-serif;
 
  .header {
 }
-.contener {
-}
+
 .header__title {
 }
 .logo {
