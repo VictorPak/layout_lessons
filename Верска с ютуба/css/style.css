@@ -95,15 +95,15 @@ body {
 
 .burger__line {
    display: block;
-   width: 21;
+   width: 21px;
    height: 3px;
    background-color: #fff;
    margin-bottom: 4px;
 }
 
-/* .burger__line:last-child {
+.burger__line:last-child {
    margin-bottom: 0;
-} */
+}
 
 .h1 {
    font-weight: 500;
