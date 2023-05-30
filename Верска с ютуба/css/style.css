@@ -2,9 +2,7 @@ html {
    box-sizing: border-box;
 }
 
-*,
-*::before,
-*::after {
+*, *::before, *::after {
    box-sizing: inherit;
 }
 
@@ -99,13 +97,13 @@ body {
    display: block;
    width: 21;
    height: 3px;
-   background-color: #fff;
+   background-color: #000;
    margin-bottom: 4px;
 }
 
-.burger__line:last-child {
+/* .burger__line:last-child {
    margin-bottom: 0;
-}
+} */
 
 .h1 {
    font-weight: 500;
