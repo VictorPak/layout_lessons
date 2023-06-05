@@ -218,7 +218,7 @@ body {
    display: flex;
 }
 .about__flex-item {
-
+   max-width: 350px;
 }
 .preconnect-img {
 
