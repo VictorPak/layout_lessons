@@ -2,19 +2,11 @@ html {
    box-sizing: border-box;
 }
 
-*,
-*::before,
-*::after {
+*, *::before, *::after {
    box-sizing: inherit;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
+h1, h2, h3, h4, h5, h6,p {
    padding: 0;
    margin: 0;
 }
@@ -208,3 +200,24 @@ body {
       grid-template-columns: repeat(1, 1fr);
    }
 }
+.text-h2 {
+}
+.project-h2 {
+}
+.about__flex {
+}
+.about__flex-item {
+}
+.preconnect-img {
+}
+.rectangle {
+}
+.text-h3 {
+}
+.roject-h3 {
+}
+.text-p {
+}
+.project-p {
+}
+
