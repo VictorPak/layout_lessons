@@ -6,10 +6,6 @@ html {
    box-sizing: inherit;
 }
 
-img {
-   display: block;
-   max-width: 100%;
-}
 h1, h2, h3, h4, h5, h6,p {
    padding: 0;
    margin: 0;
@@ -136,7 +132,6 @@ body {
 
 
 .about { 
-   padding-top: 250px;
    min-height: 1080px;
    position: relative;
 }
@@ -202,28 +197,5 @@ body {
    .about__grid {
       grid-template-columns: repeat(1, 1fr);
    }
-}
-
-.project-h2 {
-   text-align: center;
-   margin-bottom: 60px;
-}
-.project-h3 {
-
-}
-.project-p {
-
-}
-.about__flex {
-   display: flex;
-}
-.about__flex-item {
-   max-width: 350px;
-}
-.project-img {
-
-}
-.rectangle {
-
 }
 
